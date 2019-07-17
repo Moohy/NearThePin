@@ -1,4 +1,4 @@
-# This is my graduation project from Udacity.
+# NearThePin
 
 The app will peresent photos based on the pin dropped on the map!
 
